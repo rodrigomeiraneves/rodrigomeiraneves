@@ -4,12 +4,12 @@
 
 <p>
   <em>
-    Meu nome é Rodrigo Neves, <strong>Eu sou desenvolvedor mobile android</strong>
+    Meu nome é Rodrigo Neves, <strong>Eu sou Desenvolvedor Mobile Android</strong>
   </em>
 </p>
  
 - 📚 Estou concluindo o curso de Bacharel em Sistemas de Informação no Instituto Federal de Educação Ciência e Tecnologia da Bahia</a>
-- 🚀 Aperfeiõando meus conhecimentos na <strong>programação mobile android com Kotlin</strong>
+- 🚀 Aperfeiçoando meus conhecimentos na <strong>Programação Mobile Android com Kotlin</strong>
 - 📫 Meu e-mail: rmeiraneves@gmail.com
 
 <br>

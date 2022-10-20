@@ -17,7 +17,7 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,react,git,github](https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,html,css,wordpress,github)"></img>
+  <img src="[https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,html,css,wordpress,github]"></img>
 </div>
   
 <br>

@@ -15,7 +15,7 @@
 <br>
 
 ## ⚡ Tecnologias
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,html,css,wordpress,github"></img>
 </div>
@@ -23,7 +23,7 @@
 <br>
 
 ##  Meus contatos
-
+<br>
 <div align="center">
   <p>
 <a href="https://www.linkedin.com/in/rodrigo-meiraneves/"> 

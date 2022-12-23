@@ -22,14 +22,6 @@
   
 <br>
 
-## 📈 Estatísticas
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=rodrigomeiraneves&show_icons=true&theme=merko"></img>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomeiraneves&layout=compact&theme=merko"></img>
-
-
-
 ##  Meus contatos
 
 <div align="center">

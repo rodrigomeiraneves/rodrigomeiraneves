@@ -8,9 +8,9 @@
   </em>
 </p>
  
-📚 Estou concluindo o curso de Bacharel em Sistemas de Informação no Instituto Federal de Educação Ciência e Tecnologia da Bahia</a>
-🚀 Aperfeiçoando meus conhecimentos na <strong>Programação Mobile Android com Kotlin</strong>
-📲 Possuo competências em: Kotlin, Java, SQLite, MVVM (Model-view-viewmodel), Interface de programação de aplicativos (API), API REST, Retrofit, XML, Design UX, JSON, Injeção de dependências, Android SDK e suporte para Android, Gradle, Git, GitHub e Desenvolvimento de aplicativos móveis.
+📚 Estou concluindo o curso de Bacharel em Sistemas de Informação no Instituto Federal de Educação Ciência e Tecnologia da Bahia</a><br>
+🚀 Aperfeiçoando meus conhecimentos na <strong>Programação Mobile Android com Kotlin</strong><br>
+📲 Possuo competências em: Kotlin, Java, SQLite, MVVM (Model-View-ViewModel), Interface de programação de aplicativos (API), API REST, Retrofit, XML, Design UX, JSON, Injeção de dependências, Android SDK e suporte para Android, Gradle, Git, GitHub e Desenvolvimento de aplicativos móveis.<br>
 📫 Meu e-mail: rmeiraneves@gmail.com
 
 <br>

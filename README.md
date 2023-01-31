@@ -1,17 +1,17 @@
-<h1 align='center'> Bem-vindos ao meu perfil. </h1>
+<h1 align='center'> Welcome. </h1>
 
-### 👋 Sobre mim:
+### 👋 About me:
 
 <p>
   <em>
-    Meu nome é Rodrigo Neves, <strong>Eu sou Desenvolvedor Mobile Android</strong>
+    My name is Rodrigo Neves, <strong>I'am Android Mobile Developer</strong>
   </em>
 </p>
  
-📚 Estou concluindo o curso de Bacharel em Sistemas de Informação no Instituto Federal de Educação Ciência e Tecnologia da Bahia</a><br>
-🚀 Aperfeiçoando meus conhecimentos na <strong>Programação Mobile Android com Kotlin</strong><br>
-📲 Possuo competências em: Kotlin, Java, SQLite, MVVM (Model-View-ViewModel), Interface de programação de aplicativos (API), API REST, Retrofit, XML, Design UX, JSON, Injeção de dependências, Android SDK e suporte para Android, Gradle, Git, GitHub e Desenvolvimento de aplicativos móveis.<br>
-📫 Meu e-mail: rmeiraneves@gmail.com
+📚 I'm completing the Bachelor's degree in Information Systems at the Federal Institute of Education Science and Technology of Bahia</a><br>
+🚀 Improving my knowledge in <strong>Android Mobile Programming with Kotlin</strong><br>
+📲 I have skills in: Kotlin, Java, SQLite, MVVM (Model-View-ViewModel), Application Programming Interface (API), REST API, Retrofit, XML, UX Design, JSON, Dependency Injection, Android SDK and Android support , Gradle, Git, GitHub, and Mobile App Development.<br>
+📫 E-mail: rmeiraneves@gmail.com
 
 <br>
 
@@ -23,7 +23,7 @@
   
 <br>
 
-##  Meus contatos
+##  My contacts
 <br>
 <div align="center">
   <p>

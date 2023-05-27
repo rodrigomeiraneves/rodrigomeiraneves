@@ -15,7 +15,7 @@
 
 <br>
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,html,css,wordpress,github"></img>

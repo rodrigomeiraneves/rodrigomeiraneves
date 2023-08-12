@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    My name is Rodrigo Neves, <strong>I'am Android Mobile Developer</strong>
+    My name is Rodrigo Neves, <strong>I'am Full Android Developer</strong>
   </em>
 </p>
  

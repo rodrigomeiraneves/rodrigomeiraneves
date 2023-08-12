@@ -8,9 +8,9 @@
   </em>
 </p>
  
-📚 I'm completing the Bachelor's degree in Information Systems at the Federal Institute of Education Science and Technology of Bahia</a><br>
+📚 I'm Bachelor's degree in Information Systems at the Federal Institute of Education Science and Technology of Bahia</a><br>
 🚀 Improving my knowledge in <strong>Android Mobile Programming with Kotlin</strong><br>
-📲 I have skills in: Kotlin, Java, SQLite, MVVM (Model-View-ViewModel), Application Programming Interface (API), REST API, Retrofit, XML, UX Design, JSON, Dependency Injection, Android SDK and Android support , Gradle, Git, GitHub, and Mobile App Development.<br>
+📲 I have skills in: Kotlin, Java, SQLite, MVVM, MVC, Fragments, Design Patterns, Clean Architecture, Rest Retrofit API, OkHTTP, XML, UI/UX Design, Material design, Dependency Injection (Koin), Android SDK, Android Annotation , Gradle, Git, GitKraken and GitHub, Azure DevOps and Jira, Unit Tests, Code Review, Play Store Publishing, Business rule, leadership and agile methodologies.<br>
 📫 E-mail: rmeiraneves@gmail.com
 
 <br>
